@@ -1,0 +1,37 @@
+body {
+    font-family: Optima, sans-serif;
+    background-color: #94877b;
+    text-align: center;
+    color: #333;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.profile-pic {
+    width: 300px;
+    height: 350px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.profile-pic:hover {
+    transform: scale(1.1);
+}
+
+
+
+
+
+h2{
+    font-size: 36px;
+}
+h3{
+    font-size: 36px;
+}
+h4{
+    font-size: 36px;
+}
+h5{
+    font-size: 36px;
+}
